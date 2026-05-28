@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gui/src/assets/logo.png" width="200" alt="Asiri Logo">
+</p>
+
 # Asiri (Advanced Shamir Secret Sharing)
 
 Asiri is an advanced, production-grade cryptographic tool for securely splitting and recovering sensitive secrets using Shamir's Secret Sharing (SSS) over Galois Field GF(2^8).
