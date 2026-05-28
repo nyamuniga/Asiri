@@ -48,3 +48,4 @@ The compiled executable will be located inside the `gui/src-tauri/target/release
 - Uses industry standard GF(256) arithmetic, preventing modulo biases found in simple prime implementations.
 - Zero-dependency core logic (besides `rand` and `zeroize`).
 - All intermediate buffers (and the plaintext secrets themselves) are eagerly zeroized.
+
