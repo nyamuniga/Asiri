@@ -1,0 +1,11 @@
+[package]
+name = "asiri-core"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[dependencies]
+rand = { workspace = true }
+zeroize = { workspace = true }
+thiserror = { workspace = true }
+hex = { workspace = true }
